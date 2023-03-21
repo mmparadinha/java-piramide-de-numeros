@@ -12,4 +12,6 @@ Crie utilizando tudo que aprendeu até o momento, uma pirâmide de números, ond
 
 ## Resolução
 
+Solicita a entrada de um número inteiro e procede para imprimir a pirâmide por loop duplo, um controlando a linha e outro controlando a coluna.
 
+Caso não receba um número válido, avisa no terminal.
