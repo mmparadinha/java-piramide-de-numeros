@@ -1,18 +1,15 @@
-## Getting Started
+# Enunciado
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Crie utilizando tudo que aprendeu até o momento, uma pirâmide de números, onde você deve imprimir em cada linha separada a quantidade de números que está sendo iterado no momento! Por exemplo, se a sua iteração for de 1 a 5 ficaria assim o resultado final:
 
-## Folder Structure
+```java
+1
+22
+333
+4444
+55555
+```
 
-The workspace contains two folders by default, where:
+## Resolução
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
